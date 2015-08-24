@@ -43,5 +43,5 @@ group :development, :test do
   gem 'spring'
 
   gem 'rspec-rails'
+  gem 'guard-zeus'
 end
-
